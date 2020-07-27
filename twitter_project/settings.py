@@ -25,7 +25,7 @@ SECRET_KEY = '3n)voji90ouls3u!94e6!5$n&#a#zo2dax5p+%&g)ti!d%g*j6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pythonmade-twitter.herokuapp.com', 'localhost']
 
 
 # Application definition
